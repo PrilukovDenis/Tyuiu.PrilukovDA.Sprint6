@@ -41,5 +41,4 @@ namespace Tyuiu.PrilukovDA.Sprint6.Task7.V20.Lib
             return matrix;
         }
     }
-    }
 }
